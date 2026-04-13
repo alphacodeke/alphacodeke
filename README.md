@@ -33,8 +33,8 @@ Building **scalable web systems & intelligent applications** focused on real-wor
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonyke\&show_icons=true\&theme=default\&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=anthonyke\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphacodeke\&show_icons=true\&theme=default\&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=alphacodeke\&hide_border=true)
 
 ---
 
