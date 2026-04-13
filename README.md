@@ -1,94 +1,46 @@
-# 👋 Hi, I'm Anthony Karanja
+# 👋 Anthony Karanja
 
-💻 Full-Stack Developer | Django Specialist | Systems Builder
+💻 Full-Stack Developer | Django Specialist
 
-I design and build **scalable, real-world web applications** with a strong focus on backend systems, automation, and intelligent solutions.
+![Profile Views](https://komarev.com/ghpvc/?username=anthonyke\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Focus](https://img.shields.io/badge/Focus-Scalable%20Systems-blue)
+![Stack](https://img.shields.io/badge/Stack-Django%20%7C%20JS%20%7C%20MySQL-black)
 
----
-
-## 🚀 Tech Stack
-
-**Frontend**
-
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
-
-**Backend**
-
-* Python
-* Django
-
-**Database**
-
-* MySQL
+Building **scalable web systems & intelligent applications** focused on real-world problem solving.
 
 ---
 
-## 🧠 What I Do
+## 🚀 Tech
 
-* Build full-stack systems from concept to deployment
-* Design robust backend architectures using Django
-* Develop intelligent tools with chatbot integrations
-* Create responsive, user-focused web interfaces
-
----
-
-## 🔥 Featured Projects
-
-### 📌 SajiliFlow
-
-**Intelligent QR-Based Student Attendance System**
-
-* Session-based QR generation with expiration logic
-* Real-time attendance tracking
-* Integrated **FlowBot chatbot** for assistance and automation
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-green?logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-darkgreen?logo=django\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql\&logoColor=white)
 
 ---
 
-### 📌 TrustFund
+## 🔥 Projects
 
-**Scholarship Allocation System**
-
-* Streamlined application and selection process
-* Structured data handling and decision workflows
-* Designed for scalability and institutional use
-
----
-
-### 📌 Biashara Avenue
-
-**Business & Professional Networking Platform**
-
-* Connects business owners with customers
-* Links professionals with potential clients
-* Focused on accessibility and opportunity creation
+* **SajiliFlow** – QR attendance + FlowBot chatbot
+* **TrustFund** – Scholarship allocation system
+* **Biashara Avenue** – Business & professional platform
+* **MilkFlow** – Dairy management system
+* **AlphaClass** – Learning Management System
 
 ---
 
-### 📌 MilkFlow
+## 📈 Stats
 
-**Dairy Management System**
-
-* Tracks milk collection, supply, and distribution
-* Simplifies operations for dairy businesses
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonyke\&show_icons=true\&theme=default\&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=anthonyke\&hide_border=true)
 
 ---
 
-### 📌 AlphaClass
+## 📈 Focus
 
-**Learning Management System (LMS)**
-
-* Course management and structured learning flow
-* Notifications, tracking, and user interaction features
-
----
-
-## 📈 Current Focus
-
-* Transitioning into **AI & Machine Learning**
-* Building **intelligent automation systems**
-* Improving **system design, scalability, and performance**
+AI & Machine Learning • Automation • Scalable Backend Systems
 
 ---
 
@@ -96,9 +48,7 @@ I design and build **scalable, real-world web applications** with a strong focus
 
 🔗 https://anthonyke.netlify.app
 
----
-
-## 📫 Contact Me
+## 📫 Contact
 
 📧 [anthonykaranja018@gmail.com](mailto:anthonykaranja018@gmail.com)
 
@@ -106,6 +56,4 @@ I design and build **scalable, real-world web applications** with a strong focus
 
 ## ⚡ Philosophy
 
-> I build systems that solve real problems, scale efficiently, and deliver measurable impact.
-
----
+Build systems that solve real problems and scale.
