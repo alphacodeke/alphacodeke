@@ -2,6 +2,8 @@
 
 💻 Full-Stack Developer | Django Specialist
 
+![Current Time](https://img.shields.io/badge/Local%20Time-Nairobi%20%2F%20EAT-blue?style=for-the-badge)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=alphacodeke\&label=Profile%20views\&color=0e75b6\&style=flat)
 ![Focus](https://img.shields.io/badge/Focus-Scalable%20Systems-blue)
 ![Stack](https://img.shields.io/badge/Stack-Django%20%7C%20JS%20%7C%20MySQL-black)
