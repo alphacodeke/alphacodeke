@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer | Django Specialist
 
-![Profile Views](https://komarev.com/ghpvc/?username=anthonyke\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=alphacodeke\&label=Profile%20views\&color=0e75b6\&style=flat)
 ![Focus](https://img.shields.io/badge/Focus-Scalable%20Systems-blue)
 ![Stack](https://img.shields.io/badge/Stack-Django%20%7C%20JS%20%7C%20MySQL-black)
 
