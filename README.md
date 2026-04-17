@@ -3,7 +3,7 @@
 ### 🚀 Full-Stack Engineer | Django & Scalable Systems Specialist  
 Founder @ AlphaCode Solutions
 
-![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Nyeri%2C%20Kenya-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Scalable%20Systems%20%26%20AI-111827?style=for-the-badge)
 ![Availability](https://img.shields.io/badge/Open%20to-Opportunities-16a34a?style=for-the-badge)
 
