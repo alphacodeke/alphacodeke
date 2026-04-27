@@ -474,13 +474,13 @@ Eventually consistent distributed KV store with CRDT support and automatic confl
 <br/>
 
 <!-- LAUNCH SYSTEM INTERFACE BUTTON -->
-<a href="https://alphacodeke.github.io/alphacode-system/">
+<a href="https://alphacodeke.netlify.app/">
   <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20SYSTEM%20INTERFACE-%20-F7C200?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=F7C200&color=000000" alt="Launch System Interface" height="48"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=1000&color=F7C200&center=true&vCenter=true&multiline=false&width=500&lines=%5BSYS%5D+AlphaCode+OS+%E2%80%94+All+rights+reserved+%C2%A9+2025;%5BSYS%5D+Built+with+%E2%9A%A1+and+too+much+caffeine." alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=1000&color=F7C200&center=true&vCenter=true&multiline=false&width=500&lines=%5BSYS%5D+AlphaCode+OS+%E2%80%94+All+rights+reserved+%C2%A9+2026;%5BSYS%5D+Built+with+%E2%9A%A1+and+too+much+caffeine." alt="Footer" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C200,50:1a1a00,100:000000&height=120&section=footer" />
 
