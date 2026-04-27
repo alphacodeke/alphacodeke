@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AlphaCode OS — System Interface </title>
+  <meta name="description" content="AlphaCode OS — AI-Powered Developer Operating System Interface"/>
+  <meta name="theme-color" content="#000000"/>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23000'/><text y='24' font-size='22' fill='%23F7C200'>⬡</text></svg>"/>
+</head>
+<body>
+
+<!-- BACKGROUND CANVAS -->
+<canvas id="bg-canvas"></canvas>
+
+<!-- ============================== -->
+<!-- BOOT SCREEN                    -->
+<!-- ============================== -->
+<div id="boot-screen">
+  <div class="boot-logo">ALPHACODE OS</div>
+  <div class="boot-sub">AI-Powered Developer Operating System </div>
+  <div class="boot-text-panel">
+    <div id="boot-text"></div>
+  </div>
+  <div class="boot-progress">
+    <div id="boot-bar-fill"></div>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- MAIN APPLICATION               -->
+<!-- ============================== -->
+<div id="main-app">
+
+  <!-- HEADER -->
+  <header id="sys-header"></header>
+
+  <!-- CLOCK BAR -->
+  <div class="sys-clock-bar">
+    <span>ALPHACODE OS · NODE: PRIMARY · ZONE: PRODUCTION</span>
+    <span id="sys-clock">—</span>
+    <span>AI LAYER: ACTIVE · SECURITY: SHIELDED</span>
+  </div>
+
+  <!-- CONTENT AREA -->
+  <main class="content-area">
+
+    <!-- DASHBOARD SECTION -->
+    <section class="section-panel" id="section-dashboard"></section>
+
+    <!-- ARCHITECTURE SECTION -->
+    <section class="section-panel" id="section-architecture"></section>
+
+    <!-- SYSTEMS SECTION -->
+    <section class="section-panel" id="section-systems"></section>
+
+    <!-- TERMINAL SECTION -->
+    <section class="section-panel" id="section-terminal"></section>
+
+    <!-- ALPHABOT SECTION -->
+    <section class="section-panel" id="section-alphabot"></section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="sys-footer">
+    <span class="footer-logo">[ALPHACODE OS]</span>
+    <span>All systems nominal · Uptime 99.97% · Build 20250114-alpha</span>
+    <a href="https://github.com/alphacodeke" class="github-btn">◈ GITHUB PROFILE →</a>
+  </footer>
+
+</div>
+
+<!-- Inline fallback data (used when fetch fails on file:// protocol) -->
+<script>
+// This gets replaced by the fetch in script.js when served over HTTP.
+// Included as a safety fallback.
+window.__ALPHACODE_DATA__ = null;
+</script>
+
+<script type="module" src="script.js"></script>
+
+</body>
+</html>
