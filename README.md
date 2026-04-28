@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F7C200&center=true&vCenter=true&width=700&lines=%5BSYS%5D+AlphaCode+OS+Ready;%5BSYS%5D+AI+Systems+Layer+Online;%5BSYS%5D+Backend+Infrastructure+Stable;%5BSYS%5D+All+Systems+Operational+✓" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F7C200&center=true&vCenter=true&width=700&lines=%5BSYS%5D+AlphaCode+OS+Ready;%5BSYS%5D+AI+Systems+Layer+Online;%5BSYS%5D+Backend+Infrastructure+Stable;%5BSYS%5D+All+Systems+Operational+✓" />
 
 <br/><br/>
 
@@ -64,7 +64,7 @@
 ## ◈ SYSTEM ARCHITECTURE (LIVE VISUAL)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alphacodeke/alphacodeke/blob/main/main/assets/system-ui.svg" width="900"/>
+  <img src="https://raw.githubusercontent.com/alphacodeke/alphacodeke/main/assets/system-ui.svg" width="900"/>
 </p>
 
 ---
