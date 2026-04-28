@@ -14,22 +14,15 @@
 
 <br/>
 
-<!-- STATUS -->
-![System](https://img.shields.io/badge/SYSTEM-ONLINE-F7C200?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI_LAYER-ACTIVE-F7C200?style=for-the-badge)
-![Build](https://img.shields.io/badge/BUILD-PRODUCTION-F7C200?style=for-the-badge)
-
-<br/>
-
 <!-- CONTACT BADGES -->
 <a href="https://www.linkedin.com/in/alphacodeke">
-  <img src="https://img.shields.io/badge/LINKEDIN-alphacodeke-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-alphacodeke-F7C200?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:anthonykaranja018@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-anthonykaranja018%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GMAIL-anthonykaranja018%40gmail.com-F7C200?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://anthonyke.netlify.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-anthonyke.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-anthonyke.netlify.app-F7C200?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 
 </div>
@@ -171,17 +164,17 @@
   <tr>
     <td align="center" width="300">
       <a href="https://anthonyke.netlify.app">
-        <img src="https://img.shields.io/badge/📂_VIEW_PORTFOLIO-F7C200?style=for-the-badge&logo=netlify&logoColor=000&labelColor=F7C200&color=000000" height="45"/>
+        <img src="https://img.shields.io/badge/📂_VIEW_PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=000&labelColor=F7C200&color=F7C200" height="45"/>
       </a>
      </td>
     <td align="center" width="300">
       <a href="https://www.linkedin.com/in/alphacodeke">
-        <img src="https://img.shields.io/badge/🔗_CONNECT_LinkedIn-F7C200?style=for-the-badge&logo=linkedin&logoColor=white&color=000000" height="45"/>
+        <img src="https://img.shields.io/badge/🔗_CONNECT_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=F7C200" height="45"/>
       </a>
      </td>
     <td align="center" width="300">
       <a href="mailto:anthonykaranja018@gmail.com">
-        <img src="https://img.shields.io/badge/📧_HIRE_ME-F7C200?style=for-the-badge&logo=gmail&logoColor=white&color=000000" height="45"/>
+        <img src="https://img.shields.io/badge/📧_HIRE_ME-000000?style=for-the-badge&logo=gmail&logoColor=white&color=F7C200" height="45"/>
       </a>
      </td>
   </tr>
