@@ -1,14 +1,13 @@
 <div align="center">
 
 <!-- SYSTEM BOOT HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a00,100:F7C200&height=200&section=header&text=ANTHONY%20KE&fontSize=52&fontColor=F7C200&fontAlignY=38&desc=AI-POWERED%20SYSTEMS%20ARCHITECTURE%20v5.0&descSize=14&descAlignY=58&descColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a00,100:F7C200&height=200&section=header&text=ANTHONY%20KARANJA&fontSize=40&fontColor=F7C200&fontAlignY=38&desc=AI-POWERED%20SYSTEMS%20ARCHITECTURE%20v5.0&descSize=14&descAlignY=58&descColor=ffffff&animation=twinkling" />
 
-<br/>
 
 <!-- PROFILE VIEWS BADGE -->
 <img src="https://komarev.com/ghpvc/?username=alphacodeke&label=PROFILE+VIEWS&color=F7C200&style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
 <!-- TYPING -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F7C200&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Anthony+KE+Systems+Online;%5BSYS%5D+AI+Systems+Layer+Active;%5BSYS%5D+Backend+Infrastructure+Stable;%5BSYS%5D+All+Systems+Operational+✓" />
@@ -17,8 +16,8 @@
 
 <!-- STATUS -->
 ![System](https://img.shields.io/badge/SYSTEM-ONLINE-F7C200?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI_LAYER-ACTIVE-00ff00?style=for-the-badge)
-![Build](https://img.shields.io/badge/BUILD-PRODUCTION-00ff00?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI_LAYER-ACTIVE-F7C200?style=for-the-badge)
+![Build](https://img.shields.io/badge/BUILD-PRODUCTION-F7C200?style=for-the-badge)
 
 <br/>
 
@@ -27,10 +26,10 @@
   <img src="https://img.shields.io/badge/LINKEDIN-alphacodeke-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:anthonykaranja018@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-anthonykaranja018%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GMAIL-anthonykaranja018%40gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://anthonyke.netlify.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-anthonyke.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-anthonyke.netlify.app-0077B5?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 
 </div>
@@ -172,7 +171,7 @@
   <tr>
     <td align="center" width="300">
       <a href="https://anthonyke.netlify.app">
-        <img src="https://img.shields.io/badge/📂_VIEW_PORTFOLIO-F7C200?style=for-the-badge&logo=netlify&logoColor=000&labelColor=F7C200&color=000000" height="45"/>
+        <img src="https://img.shields.io/badge/📂_VIEW_PORTFOLIO-F7C200?style=for-the-badge&logo=netlify&logoColor=000&labelColor=F7C200&color=0077B5" height="45"/>
       </a>
      </td>
     <td align="center" width="300">
@@ -182,7 +181,7 @@
      </td>
     <td align="center" width="300">
       <a href="mailto:anthonykaranja018@gmail.com">
-        <img src="https://img.shields.io/badge/📧_HIRE_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" height="45"/>
+        <img src="https://img.shields.io/badge/📧_HIRE_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0077B5" height="45"/>
       </a>
      </td>
   </tr>
@@ -192,9 +191,9 @@
 
 <!-- SOCIAL PROOF / STATUS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_6+_PRODUCTION_SYSTEMS_LIVE-00ff00?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🚀_6+_PRODUCTION_SYSTEMS_LIVE-000000?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/🤖_AI_INTEGRATION_READY-F7C200?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/⚡_24/7_SYSTEM_UPTIME-00ff00?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚡_24/7_SYSTEM_UPTIME-000000?style=flat-square&labelColor=000000" />
 </p>
 
 <br/>
