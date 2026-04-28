@@ -225,13 +225,6 @@
 </p>
 
 
-## ◈ LAUNCH SYSTEM
-
-<a href="https://anthonyke.netlify.app">
-  <img src="https://img.shields.io/badge/⚡_ENTER_SYSTEM_INTERFACE_⚡-F7C200?style=for-the-badge&logo=terminal&logoColor=000&labelColor=F7C200&color=000000" height="50"/>
-</a>
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=1000&color=F7C200&center=true&vCenter=true&width=500&lines=%5BSYS%5D+Systems+Online;%5BSYS%5D+AI+Layer+Active;%5BSYS%5D+Ready+for+Deployment" />
 
