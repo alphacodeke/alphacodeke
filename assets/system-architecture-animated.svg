@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="100%" max-width="900" height="auto">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2a2a00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="nodeGradGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F7C200;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#F7C200;stop-opacity:0.05" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F7C200;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#F7C200;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F7C200;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="arrowGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F7C200;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#F7C200;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F7C200;stop-opacity:0.3" />
+    </linearGradient>
+
+    <!-- Glow Filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Arrow Marker -->
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#F7C200" />
+    </marker>
+    <marker id="arrowDim" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#F7C200" opacity="0.3" />
+    </marker>
+
+    <!-- Pulse Animation -->
+    <animate id="pulse" attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="520" fill="url(#bgGrad)" rx="10" />
+
+  <!-- Title -->
+  <text x="500" y="35" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="14" fill="#F7C200" opacity="0.8">
+    ◈ SYSTEM ARCHITECTURE — HOW MY STACK WORKS IN COMPLEX SYSTEMS
+  </text>
+
+  <!-- ============================================ -->
+  <!-- ROW 1: MAIN FLOW (Client → Output) -->
+  <!-- ============================================ -->
+
+  <!-- Node 1: Client -->
+  <rect x="40" y="80" width="130" height="70" rx="10" fill="url(#nodeGrad)" stroke="#F7C200" stroke-width="1.5" filter="url(#glow)">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite" />
+  </rect>
+  <text x="105" y="110" text-anchor="middle" font-family="sans-serif" font-size="22">🌐</text>
+  <text x="105" y="135" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#F7C200">CLIENT</text>
+  <text x="105" y="148" text-anchor="middle" font-family="monospace" font-size="9" fill="#888">Web/Mobile/QR</text>
+
+  <!-- Arrow 1→2 (animated dash) -->
+  <line x1="170" y1="115" x2="230" y2="115" stroke="url(#arrowGlow)" stroke-width="2" marker-end="url(#arrow)">
+    <animate attributeName="stroke-dasharray" values="0,60;60,0" dur="1.5s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Node 2: API Gateway -->
+  <rect x="235" y="80" width="150" height="70" rx="10" fill="url(#nodeGrad)" stroke="#F7C200" stroke-width="1.5" />
+  <text x="310" y="110" text-anchor="middle" font-family="sans-serif" font-size="22">🔐</text>
+  <text x="310" y="135" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#F7C200">API GATEWAY</text>
+  <text x="310" y="148" text-anchor="middle" font-family="monospace" font-size="9" fill="#888">Django REST + Auth</text>
+
+  <!-- Pulse ring on API Gateway -->
+  <circle cx="310" cy="115" r="45" fill="none" stroke="#F7C200" stroke-width="0.5" opacity="0">
+    <animate attributeName="r" values="45;65" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.6;0" dur="2s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Arrow 2→3 -->
+  <line x1="385" y1="115" x2="445" y2="115" stroke="url(#arrowGlow)" stroke-width="2" marker-end="url(#arrow)">
+    <animate attributeName="stroke-dasharray" values="0,60;60,0" dur="1.5s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Node 3: Core Engine -->
+  <rect x="450" y="80" width="140" height="70" rx="10" fill="url(#nodeGrad)" stroke="#F7C200" stroke-width="1.5" />
+  <text x="520" y="110" text-anchor="middle" font-family="sans-serif" font-size="22">⚙️</text>
+  <text x="520" y="135" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#F7C200">CORE ENGINE</text>
+  <text x="520" y="148" text-anchor="middle" font-family="monospace" font-size="9" fill="#888">Business Logic</text>
+
+  <!-- Arrow 3→4 -->
+  <line x1="590" y1="115" x2="650" y2="115" stroke="url(#arrowGlow)" stroke-width="2" marker-end="url(#arrow)">
+    <animate attributeName="stroke-dasharray" values="0,60;60,0" dur="1.5s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Node 4: AI Agents -->
+  <rect x="655" y="80" width="140" height="70" rx="10" fill="url(#nodeGradGold)" stroke="#F7C200" stroke-width="2" filter="url(#glow)">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" />
+  </rect>
+  <text x="725" y="110" text-anchor="middle" font-family="sans-serif" font-size="22">🧠</text>
+  <text x="725" y="135" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#F7C200">AI AGENTS</text>
+  <text x="725" y="148" text-anchor="middle" font-family="monospace" font-size="9" fill="#888">Context-Aware</text>
+
+  <!-- AI Brain Waves Animation -->
+  <path d="M680 100 Q690 90 700 100 Q710 110 720 100" fill="none" stroke="#F7C200" stroke-width="1" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="1s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Arrow 4→5 -->
+  <line x1="795" y1="115" x2="855" y2="115" stroke="url(#arrowGlow)" stroke-width="2" marker-end="url(#arrow)">
+    <animate attributeName="stroke-dasharray" values="0,60;60,0" dur="1.5s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Node 5: Output -->
+  <rect x="860" y="80" width="110" height="70" rx="10" fill="url(#nodeGrad)" stroke="#F7C200" stroke-width="1.5" />
+  <text x="915" y="110" text-anchor="middle" font-family="sans-serif" font-size="22">📤</text>
+  <text x="915" y="135" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#F7C200">OUTPUT</text>
+  <text x="915" y="148" text-anchor="middle" font-family="monospace" font-size="9" fill="#888">Dashboard/Reports</text>
+
+  <!-- ============================================ -->
+  <!-- ROW 2: SUPPORTING SERVICES (below main flow) -->
+  <!-- ============================================ -->
+
+  <!-- Database Box -->
+  <rect x="235" y="210" width="140" height="65" rx="8" fill="url(#nodeGrad)" stroke="#F7C200" stroke-width="1" stroke-opacity="0.5" />
+  <text x="305" y="240" text-anchor="middle" font-family="sans-serif" font-size="20">🗄️</text>
+  <text x="305" y="260" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#ccc">MySQL Database</text>
+  <text x="305" y="272" text-anchor="middle" font-family="monospace" font-size="8" fill="#666">Persistent Storage</text>
+
+  <!-- Vertical line: Core → DB (both directions) -->
+  <line x1="500" y1="150" x2="500" y2="210" stroke="#F7C200" stroke-width="1.2" stroke-opacity="0.4" marker-end="url(#arrowDim)" stroke-dasharray="5,5">
+    <animate attributeName="stroke-opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite" />
+  </line>
+  <line x1="500" y1="210" x2="500" y2="150" stroke="#F7C200" stroke-width="1.2" stroke-opacity="0.4" marker-end="url(#arrowDim)" stroke-dasharray="5,5">
+    <animate attributeName="stroke-opacity" values="0.4;0.1;0.4" dur="3s" repeatCount="indefinite" />
+  </line>
+  <text x="510" y="183" font-family="monospace" font-size="8" fill="#666" transform="rotate(90,510,183)">read/write</text>
+
+  <!-- Redis Cache -->
+  <rect x="450" y="210" width="130" height="65" rx="8" fill="url(#nodeGrad)" stroke="#F7C200" stroke-width="1" stroke-opacity="0.5" />
+  <text x="515" y="240" text-anchor="middle" font-family="sans-serif" font-size="20">⚡</text>
+  <text x="515" y="260" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#ccc">Redis Cache</text>
+  <text x="515" y="272" text-anchor="middle" font-family="monospace" font-size="8" fill="#666">Real-time State</text>
+
+  <!-- Email Service -->
+  <rect x="655" y="210" width="130" height="65" rx="8" fill="url(#nodeGrad)" stroke="#F7C200" stroke-width="1" stroke-opacity="0.5" />
+  <text x="720" y="240" text-anchor="middle" font-family="sans-serif" font-size="20">📧</text>
+  <text x="720" y="260" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#ccc">Email Alerts</text>
+  <text x="720" y="272" text-anchor="middle" font-family="monospace" font-size="8" fill="#666">Django Mail Queue</text>
+
+  <!-- WebSocket -->
+  <rect x="860" y="210" width="130" height="65" rx="8" fill="url(#nodeGrad)" stroke="#F7C200" stroke-width="1" stroke-opacity="0.5" />
+  <text x="925" y="240" text-anchor="middle" font-family="sans-serif" font-size="20">🔄</text>
+  <text x="925" y="260" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#ccc">WebSockets</text>
+  <text x="925" y="272" text-anchor="middle" font-family="monospace" font-size="8" fill="#666">Live Updates</text>
+
+  <!-- Vertical line: AI → Email -->
+  <line x1="690" y1="150" x2="690" y2="210" stroke="#F7C200" stroke-width="1.2" stroke-opacity="0.4" marker-end="url(#arrowDim)" stroke-dasharray="5,5">
+    <animate attributeName="stroke-opacity" values="0.2;0.6;0.2" dur="2.5s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Horizontal lines connecting supporting services -->
+  <line x1="375" y1="242" x2="450" y2="242" stroke="#F7C200" stroke-width="0.8" stroke-opacity="0.3" marker-end="url(#arrowDim)" />
+  <line x1="580" y1="242" x2="655" y2="242" stroke="#F7C200" stroke-width="0.8" stroke-opacity="0.3" marker-end="url(#arrowDim)" />
+  <line x1="785" y1="242" x2="860" y2="242" stroke="#F7C200" stroke-width="0.8" stroke-opacity="0.3" marker-end="url(#arrowDim)" />
+
+  <!-- ============================================ -->
+  <!-- ROW 3: STATUS INDICATORS -->
+  <!-- ============================================ -->
+
+  <!-- Status bar background -->
+  <rect x="40" y="320" width="920" height="40" rx="8" fill="#0a0a00" stroke="#F7C200" stroke-width="0.5" stroke-opacity="0.3" />
+
+  <!-- Status dot 1 -->
+  <circle cx="70" cy="340" r="5" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+  <text x="85" y="344" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff00">API Online</text>
+
+  <circle cx="190" cy="340" r="5" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+  </circle>
+  <text x="205" y="344" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff00">DB Connected</text>
+
+  <circle cx="330" cy="340" r="5" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.1s" repeatCount="indefinite" />
+  </circle>
+  <text x="345" y="344" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff00">Cache Active</text>
+
+  <circle cx="470" cy="340" r="5" fill="#F7C200">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.2s" repeatCount="indefinite" />
+  </circle>
+  <text x="485" y="344" font-family="JetBrains Mono, monospace" font-size="11" fill="#F7C200">AI Processing</text>
+
+  <circle cx="610" cy="340" r="5" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.7s" repeatCount="indefinite" />
+  </circle>
+  <text x="625" y="344" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff00">Queue Active</text>
+
+  <circle cx="740" cy="340" r="5" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="755" y="344" font-family="JetBrains Mono, monospace" font-size="11" fill="#00ff00">WebSocket Live</text>
+
+  <!-- ============================================ -->
+  <!-- LEGEND -->
+  <!-- ============================================ -->
+  <rect x="40" y="400" width="920" height="95" rx="8" fill="#0a0a00" stroke="#F7C200" stroke-width="0.5" stroke-opacity="0.3" />
+
+  <text x="60" y="425" font-family="JetBrains Mono, monospace" font-size="11" fill="#F7C200" font-weight="bold">LEGEND</text>
+
+  <!-- Legend items -->
+  <rect x="60" y="440" width="30" height="15" rx="3" fill="#1a1a00" stroke="#F7C200" stroke-width="1" />
+  <text x="100" y="453" font-family="monospace" font-size="10" fill="#ccc">Core Node</text>
+
+  <line x1="200" y1="447" x2="240" y2="447" stroke="url(#arrowGlow)" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="250" y="453" font-family="monospace" font-size="10" fill="#ccc">Data Flow (animated)</text>
+
+  <line x1="400" y1="447" x2="440" y2="447" stroke="#F7C200" stroke-width="1" stroke-dasharray="5,5" stroke-opacity="0.5" />
+  <text x="450" y="453" font-family="monospace" font-size="10" fill="#ccc">Async / Background</text>
+
+  <circle cx="620" cy="447" r="4" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+  <text x="635" y="453" font-family="monospace" font-size="10" fill="#ccc">Active Service</text>
+
+  <rect x="780" y="440" width="30" height="15" rx="3" fill="url(#nodeGradGold)" stroke="#F7C200" stroke-width="1.5" filter="url(#glow)"/>
+  <text x="820" y="453" font-family="monospace" font-size="10" fill="#ccc">AI Layer</text>
+
+  <!-- Footer text -->
+  <text x="500" y="485" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" fill="#666">
+    All systems operational — Real-time data flow visualization
+  </text>
+
+  <text x="500" y="505" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="8" fill="#444" opacity="0.6">
+    v5.0 | Anthony KE Architecture
+  </text>
+
+</svg>
