@@ -94,18 +94,115 @@
 * Designed for automation workflows
 
 
-## ◈ INTERACTIVE SYSTEM
+## ◈ WHAT I BUILD
 
-Explore the full system interface:
+<div align="center">
 
-👉 [https://anthonyke.netlify.app](https://anthonyke.netlify.app)
+<!-- Value Proposition Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=F7C200&center=true&vCenter=true&width=800&lines=AI-Powered+Backend+Systems;Scalable+Django+Architecture;Intelligent+Automation+Workflows;Real-Time+Data+Processing" />
 
-Features:
+<br/><br/>
 
-* 🖥️ Live terminal interface
-* 🤖 AI system interaction
-* 📊 System dashboard
-* 🧠 Architecture visualization
+<!-- SERVICE CARDS -->
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <br/>
+      <span style="font-size: 42px;">🧠</span>
+      <br/>
+      <b>Custom AI Agents</b>
+      <br/>
+      <sub>Context-aware automation<br/>Web fallback intelligence<br/>Embedded in your stack</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="250">
+      <br/>
+      <span style="font-size: 42px;">⚙️</span>
+      <br/>
+      <b>Scalable Backend</b>
+      <br/>
+      <sub>Django REST APIs<br/>MySQL + Redis caching<br/>Production-ready deployment</sub>
+      <br/><br/>
+     </td>
+    <td align="center" width="250">
+      <br/>
+      <span style="font-size: 42px;">🔄</span>
+      <br/>
+      <b>Real-Time Systems</b>
+      <br/>
+      <sub>WebSocket live updates<br/>Queue management<br/>Email/SMS automation</sub>
+      <br/><br/>
+     </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <br/>
+      <span style="font-size: 42px;">📊</span>
+      <br/>
+      <b>Data Dashboards</b>
+      <br/>
+      <sub>Live analytics visualization<br/>System monitoring<br/>Custom reporting</sub>
+      <br/><br/>
+     </td>
+    <td align="center" width="250">
+      <br/>
+      <span style="font-size: 42px;">🔐</span>
+      <br/>
+      <b>Secure Integration</b>
+      <br/>
+      <sub>Authentication ready<br/>API security<br/>Data protection</sub>
+      <br/><br/>
+     </td>
+    <td align="center" width="250">
+      <br/>
+      <span style="font-size: 42px;">🚀</span>
+      <br/>
+      <b>Full Deployment</b>
+      <br/>
+      <sub>Netlify + Vercel ready<br/>CI/CD pipelines<br/>Cloud hosting</sub>
+      <br/><br/>
+     </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- CTA AREA -->
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href="https://anthonyke.netlify.app">
+        <img src="https://img.shields.io/badge/📂_VIEW_PORTFOLIO-F7C200?style=for-the-badge&logo=netlify&logoColor=000&labelColor=F7C200&color=000000" height="45"/>
+      </a>
+     </td>
+    <td align="center" width="300">
+      <a href="https://www.linkedin.com/in/alphacodeke">
+        <img src="https://img.shields.io/badge/🔗_CONNECT_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" height="45"/>
+      </a>
+     </td>
+    <td align="center" width="300">
+      <a href="mailto:anthonykaranja018@gmail.com">
+        <img src="https://img.shields.io/badge/📧_HIRE_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" height="45"/>
+      </a>
+     </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- SOCIAL PROOF / STATUS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_6+_PRODUCTION_SYSTEMS_LIVE-00ff00?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🤖_AI_INTEGRATION_READY-F7C200?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚡_24/7_SYSTEM_UPTIME-00ff00?style=flat-square&labelColor=000000" />
+</p>
+
+<br/>
+
+<!-- Animated Footer -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=F7C200&center=true&vCenter=true&width=600&lines=Available+for+collaboration+▸+Open+to+freelance+work+▸+Let's+build+something+great" />
+
+</div>
 
 
 <div align="center">
