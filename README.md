@@ -64,7 +64,7 @@
 ## ◈ SYSTEM ARCHITECTURE (LIVE VISUAL)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alphacodeke/alphacodeke/main/assets/system-ui.svg" width="900"/>
+  <img src="https://raw.githubusercontent.com/alphacodeke/alphacodeke/blob/main/main/assets/system-ui.svg" width="900"/>
 </p>
 
 ---
