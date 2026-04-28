@@ -36,7 +36,7 @@
   "ai_layer": "AlphaBot",
   "status": "Production Systems Builder"
 }
-````
+```
 
 ---
 
