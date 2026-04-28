@@ -24,7 +24,6 @@
 
 </div>
 
----
 
 ## ◈ SYSTEM PROFILE
 
@@ -38,7 +37,6 @@
 }
 ```
 
----
 
 ## ◈ FEATURED SYSTEMS
 
@@ -51,7 +49,6 @@
 | **MilkFlow**        | Dairy production & distribution management                            | ACTIVE     |
 | **AlphaClass**      | Modern LMS platform                                                   | BETA       |
 
----
 
 ## ◈ TECH STACK
 
@@ -59,7 +56,6 @@
 <img src="https://skillicons.dev/icons?i=python,django,js,mysql,html,css,tailwind,linux,git,github" />
 </p>
 
----
 
 ## ◈ SYSTEM ARCHITECTURE (LIVE VISUAL)
 
@@ -67,7 +63,6 @@
   <img src="https://raw.githubusercontent.com/alphacodeke/alphacodeke/main/assets/system-ui.svg" width="900"/>
 </p>
 
----
 
 ## ◈ ALPHABOT AI LAYER
 
@@ -78,7 +73,6 @@
 * Embedded in real systems
 * Designed for automation workflows
 
----
 
 ## ◈ INTERACTIVE SYSTEM
 
@@ -93,7 +87,6 @@ Features:
 * 📊 System dashboard
 * 🧠 Architecture visualization
 
----
 
 <div align="center">
 
@@ -107,15 +100,13 @@ Features:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphacodeke&theme=github-compact&bg_color=000000&color=F7C200&line=F7C200&point=ffffff&hide_border=true" />
 
----
 
 ## ◈ LIVE ACTIVITY
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alphacodeke/alphacodeke/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
 ## ◈ LAUNCH SYSTEM
 
