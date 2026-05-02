@@ -201,13 +201,14 @@
 
 ## ◈ SYSTEM ANALYTICS
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alphacodeke&theme=dark&background=000000&ring=F7C200&fire=F7C200&currStreakLabel=F7C200&border=F7C200" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphacodeke&theme=transparent&background=000000&ring=F7C200&fire=F7C200&currStreakLabel=F7C200&border=F7C200" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphacodeke&layout=compact&theme=transparent&bg_color=000000&title_color=F7C200&border_color=F7C200" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphacodeke&theme=github-compact&bg_color=000000&color=F7C200&line=F7C200&point=ffffff&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=alphacodeke&theme=darkhub&no-frame=true&margin-w=15&column=4" />
+<img src="https://ghchart.rshah.org/F7C200/alphacodeke" />
 
 
 ## ◈ LIVE ACTIVITY
