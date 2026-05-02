@@ -201,7 +201,7 @@
 
 ## ◈ SYSTEM ANALYTICS
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alphacodeke&theme=github_dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alphacodeke&theme=dark&background=000000&ring=F7C200&fire=F7C200&currStreakLabel=F7C200&border=F7C200" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphacodeke&theme=transparent&background=000000&ring=F7C200&fire=F7C200&currStreakLabel=F7C200&border=F7C200" />
 
