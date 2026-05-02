@@ -201,11 +201,7 @@
 
 ## ◈ SYSTEM ANALYTICS
 
-<!-- Streak + stats + languages + avatar -->
-<img src="https://gitstrength.netlify.app/api/card?username=alphacodeke" width="100%" />
-
-<!-- Skills widget (customizable) -->
-<img src="https://gitstrength.netlify.app/api/skill-set-card?skills=Python,Django,JavaScript,MySQL" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=alphacodeke&show_icons=true&bg_color=000000&title_color=F7C200&icon_color=F7C200" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphacodeke&theme=transparent&background=000000&ring=F7C200&fire=F7C200&currStreakLabel=F7C200&border=F7C200" />
 
