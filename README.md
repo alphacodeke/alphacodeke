@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SYSTEM BOOT HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A000000,50%3A1a1a00,100%3AF7C200&height=200&section=header&text=ANTHONY%20KARANJA&fontSize=40&fontColor=F7C200&fontAlignY=38&desc=AI-POWERED%20SYSTEMS%20ARCHITECTURE%20v5.0&descSize=14&descAlignY=58&descColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A000000,50%3A1a1a00,100%3AF7C200&height=200&section=header&text=ANTHONY%20KARANJA&fontSize=40&fontColor=F7C200&fontAlignY=38&desc=AI-POWERED%20SYSTEMS%20ARCHITECTURE%20&descSize=14&descAlignY=58&descColor=ffffff&animation=twinkling" />
 
 
 <!-- PROFILE VIEWS BADGE -->
