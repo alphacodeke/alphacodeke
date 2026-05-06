@@ -205,7 +205,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphacodeke&theme=transparent&background=000000&ring=F7C200&fire=F7C200&currStreakLabel=F7C200&border=F7C200" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alphacodeke&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alphacodeke&theme=default" />
 
 ## ◈ LIVE ACTIVITY
 
