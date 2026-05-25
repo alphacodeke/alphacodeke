@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- SYSTEM BOOT HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A000000,50%3A1a1a00,100%3AF7C200&height=200&section=header&text=ANTHONY%20KARANJA&fontSize=40&fontColor=F7C200&fontAlignY=38&desc=AI-POWERED%20SYSTEMS%20ARCHITECTURE%20&descSize=14&descAlignY=58&descColor=ffffff&animation=twinkling" />
 
@@ -206,6 +205,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphacodeke&theme=transparent&background=000000&ring=F7C200&fire=F7C200&currStreakLabel=F7C200&border=F7C200" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphacodeke&layout=compact&bg_color=000000&title_color=F7C200&border_color=F7C200&langs_count=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alphacodeke&bg_color=000000&color=F7C200&line=F7C200&point=ffffff&area=true&hide_border=true" />
 
 ## ◈ LIVE ACTIVITY
 
