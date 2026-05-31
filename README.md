@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F7C200&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Anthony+KE+Systems+Online;%5BSYS%5D+AI+Systems+Layer+Active;%5BSYS%5D+Backend+Infrastructure+Stable;%5BSYS%5D+All+Systems+Operational+[OK]" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F7C200&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Anthony+KE+Systems+Online;%5BSYS%5D+AI+Systems+Layer+Active;%5BSYS%5D+Backend+Infrastructure+Stable;%5BSYS%5D+All+Systems+Operational+✓" />
 
 <br/>
 
@@ -92,7 +92,11 @@
   <tr>
     <td align="center" width="250">
       <br/>
-      <span style="font-size: 42px;">[AI]</span>
+      <svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="#F7C200" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 2a10 10 0 1 0 10 10"/>
+        <path d="M12 6v6l4 2"/>
+        <path d="M16 21.5a10 10 0 1 1 3-18"/>
+      </svg>
       <br/>
       <b>Custom AI Agents</b>
       <br/>
@@ -101,7 +105,11 @@
      </td>
     <td align="center" width="250">
       <br/>
-      <span style="font-size: 42px;">[</span>
+      <svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="#F7C200" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+        <line x1="8" y1="21" x2="16" y2="21"></line>
+        <line x1="12" y1="17" x2="12" y2="21"></line>
+      </svg>
       <br/>
       <b>Scalable Backend</b>
       <br/>
@@ -110,18 +118,26 @@
       </td>
     <td align="center" width="250">
       <br/>
-      <span style="font-size: 42px;"><> </span>
+      <svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="#F7C200" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+        <circle cx="12" cy="12" r="3"></circle>
+      </svg>
       <br/>
       <b>Real-Time Systems</b>
       <br/>
       <sub>WebSocket live updates<br/>Queue management<br/>Email/SMS automation</sub>
       <br/><br/>
       </td>
-   </tr>
-   <tr>
+    </tr>
+    <tr>
     <td align="center" width="250">
       <br/>
-      <span style="font-size: 42px;">[=]</span>
+      <svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="#F7C200" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12v3a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4v-3"></path>
+        <path d="M12 2v8l3-3"></path>
+        <path d="M12 2v8l-3-3"></path>
+        <line x1="12" y1="10" x2="12" y2="2"></line>
+      </svg>
       <br/>
       <b>Data Dashboards</b>
       <br/>
@@ -130,7 +146,10 @@
       </td>
     <td align="center" width="250">
       <br/>
-      <span style="font-size: 42px;">[#]</span>
+      <svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="#F7C200" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+        <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+      </svg>
       <br/>
       <b>Secure Integration</b>
       <br/>
@@ -139,14 +158,17 @@
       </td>
     <td align="center" width="250">
       <br/>
-      <span style="font-size: 42px;">[↑]</span>
+      <svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="#F7C200" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+        <circle cx="12" cy="12" r="3"/>
+      </svg>
       <br/>
       <b>Full Deployment</b>
       <br/>
       <sub>Netlify + Vercel ready<br/>CI/CD pipelines<br/>Cloud hosting</sub>
       <br/><br/>
       </td>
-   </tr>
+    </tr>
 </table>
 
 <br/>
@@ -155,17 +177,17 @@
   <tr>
     <td align="center" width="300">
       <a href="https://anthonyke.netlify.app">
-        <img src="https://img.shields.io/badge/[F]_VIEW_PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=000&labelColor=F7C200&color=F7C200" height="45"/>
+        <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=000&labelColor=F7C200&color=F7C200" height="45"/>
       </a>
       </td>
     <td align="center" width="300">
       <a href="https://www.linkedin.com/in/alphacodeke">
-        <img src="https://img.shields.io/badge/[in]_CONNECT_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=F7C200" height="45"/>
+        <img src="https://img.shields.io/badge/CONNECT_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=F7C200" height="45"/>
       </a>
       </td>
     <td align="center" width="300">
       <a href="mailto:anthonykaranja018@gmail.com">
-        <img src="https://img.shields.io/badge/[@]_HIRE_ME-000000?style=for-the-badge&logo=gmail&logoColor=white&color=F7C200" height="45"/>
+        <img src="https://img.shields.io/badge/HIRE_ME-000000?style=for-the-badge&logo=gmail&logoColor=white&color=F7C200" height="45"/>
       </a>
       </td>
    </tr>
@@ -174,9 +196,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/[!]_6+_PRODUCTION_SYSTEMS_LIVE-000000?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/[AI]_INTEGRATION_READY-F7C200?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/[%]_24/7_SYSTEM_UPTIME-000000?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/6+_PRODUCTION_SYSTEMS_LIVE-000000?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/AI_INTEGRATION_READY-F7C200?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/24/7_SYSTEM_UPTIME-000000?style=flat-square&labelColor=000000" />
 </p>
 
 <br/>
