@@ -196,7 +196,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/6+_PRODUCTION_SYSTEMS_LIVE-000000?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/8+_PRODUCTION_SYSTEMS_LIVE-000000?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/AI_INTEGRATION_READY-F7C200?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/24/7_SYSTEM_UPTIME-000000?style=flat-square&labelColor=000000" />
 </p>
