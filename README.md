@@ -39,10 +39,10 @@
 
 | System              | Description                                                           | Status     |
 | ------------------- | --------------------------------------------------------------------- | ---------- |
-| **AlphaQ**          | Smart QR-based queue management system (email alerts, real-time flow) | ACTIVE     |
+| **AlphaQ**          | Smart QR-based queue management system (email alerts, real-time)      | ACTIVE     |
 | **SajiliFlow**      | AI-powered QR attendance + automation                                 | ACTIVE     |
 | **TrustFund**       | Scholarship workflow automation system                                | PRODUCTION |
-| **Biashara Avenue** | Marketplace infrastructure platform                                   | ACTIVE     |
+| **Biashara Avenue** | Marketplace infrastructure platform (buyers & sellers)                | ACTIVE     |
 | **MilkFlow**        | Dairy production & distribution management                            | ACTIVE     |
 | **AlphaClass**      | Modern LMS platform + AI powered assistance                           | BETA       |
 
