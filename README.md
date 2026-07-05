@@ -165,7 +165,7 @@
       <br/>
       <b>Full Deployment</b>
       <br/>
-      <sub>Netlify + Vercel ready<br/>CI/CD pipelines<br/>Cloud hosting</sub>
+      <sub>Hosting platforms ready<br/>CI/CD pipelines<br/>Cloud hosting</sub>
       <br/><br/>
       </td>
     </tr>
