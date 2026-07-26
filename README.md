@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F7C200&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Anthony+KE+Systems+Online;%5BSYS%5D+AI+Systems+Layer+Active;%5BSYS%5D+Backend+Infrastructure+Stable;%5BSYS%5D+All+Systems+Operational+✓" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F7C200&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Anthony+Karanja+Systems+Online;%5BSYS%5D+AI+Systems+Layer+Active;%5BSYS%5D+Backend+Infrastructure+Stable;%5BSYS%5D+All+Systems+Operational+✓" />
 
 <br/>
 
