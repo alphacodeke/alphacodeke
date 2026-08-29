@@ -525,6 +525,6 @@ A centralized learning management environment for courses, instructors and stude
 
 <div align="center">
 
-<a href="https://anthonyke.netlify.app">Portfolio</a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/alphacodeke">LinkedIn</a> &nbsp;&middot;&nbsp; <a href="mailto:anthonykaranja018@gmail.com">Email</a> &nbsp;&middot;&nbsp; <a href="https://github.com/alphacodeke">GitHub</a> &nbsp;&middot;&nbsp; <a href="https://alphacode.ke">ALPHACODE SOLUTIONS</a>
+<a href="https://anthonyke.netlify.app">Portfolio</a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/alphacodeke">LinkedIn</a> &nbsp;&middot;&nbsp; <a href="mailto:anthonykaranja018@gmail.com">Email</a> &nbsp;&middot;&nbsp; <a href="https://github.com/alphacodeke">GitHub</a> &nbsp;&middot;&nbsp; <a href="https://anthonyke.netlify.app">ALPHACODE SOLUTIONS</a>
 
 </div>
