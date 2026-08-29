@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="AK monogram">
+  <rect x="2" y="2" width="116" height="116" rx="24" fill="#111111" stroke="#F7C200" stroke-width="2"/>
+  <text x="50%" y="58%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700"
+        fill="#F7C200">AK</text>
+</svg>

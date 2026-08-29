@@ -1,0 +1,60 @@
+[
+  {
+    "category": "Frontend",
+    "items": [
+      {"name": "HTML5", "purpose": "Structure and semantics for every interface", "icon": "assets/icons/html5.svg"},
+      {"name": "CSS3", "purpose": "Layout and visual styling", "icon": "assets/icons/css3.svg"},
+      {"name": "JavaScript", "purpose": "Client-side interactivity and dynamic behavior", "icon": "assets/icons/javascript.svg"},
+      {"name": "Tailwind CSS", "purpose": "Utility-first styling compiled locally per project", "icon": "assets/icons/tailwindcss.svg"}
+    ]
+  },
+  {
+    "category": "Backend",
+    "items": [
+      {"name": "Python", "purpose": "Application logic and backend services", "icon": "assets/icons/python.svg"},
+      {"name": "Django", "purpose": "Primary web framework across production systems", "icon": "assets/icons/django.svg"},
+      {"name": "Django REST Framework", "purpose": "API layer for client and integration access", "icon": "assets/icons/drf.svg"}
+    ]
+  },
+  {
+    "category": "Database",
+    "items": [
+      {"name": "MySQL", "purpose": "Primary relational database in production", "icon": "assets/icons/mysql.svg"},
+      {"name": "SQLite", "purpose": "Local development database", "icon": "assets/icons/sqlite.svg"}
+    ]
+  },
+  {
+    "category": "Infrastructure",
+    "items": [
+      {"name": "Linux", "purpose": "Server operating environment", "icon": "assets/icons/linux.svg"},
+      {"name": "Nginx", "purpose": "Reverse proxy and static asset serving", "icon": "assets/icons/nginx.svg"},
+      {"name": "Gunicorn", "purpose": "WSGI application server", "icon": "assets/icons/gunicorn.svg"}
+    ]
+  },
+  {
+    "category": "Development",
+    "items": [
+      {"name": "Git", "purpose": "Version control", "icon": "assets/icons/git.svg"},
+      {"name": "GitHub", "purpose": "Source hosting and collaboration", "icon": "assets/icons/github.svg"},
+      {"name": "VS Code", "purpose": "Primary development environment", "icon": "assets/icons/vscode.svg"}
+    ]
+  },
+  {
+    "category": "Integrations",
+    "items": [
+      {"name": "Payment APIs", "purpose": "Transaction processing across billing and commerce projects", "icon": "assets/icons/payments.svg"},
+      {"name": "Email services", "purpose": "Transactional and automated communication", "icon": "assets/icons/email.svg"},
+      {"name": "Webhooks", "purpose": "Event-driven communication between systems", "icon": "assets/icons/webhooks.svg"},
+      {"name": "MikroTik APIs", "purpose": "Network device integration for WiFi billing", "icon": "assets/icons/mikrotik.svg"}
+    ]
+  },
+  {
+    "category": "Additional Technologies",
+    "items": [
+      {"name": "Redis", "purpose": "Caching and background task queues", "icon": "assets/icons/redis.svg"},
+      {"name": "WebSockets", "purpose": "Real-time updates for live features", "icon": "assets/icons/websockets.svg"},
+      {"name": "PWA", "purpose": "Offline-capable, installable web experiences", "icon": "assets/icons/pwa.svg"},
+      {"name": "Cloudflare Turnstile", "purpose": "Bot protection on public forms", "icon": "assets/icons/turnstile.svg"}
+    ]
+  }
+]

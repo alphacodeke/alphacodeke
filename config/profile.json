@@ -1,0 +1,24 @@
+{
+  "name": "Anthony Karanja",
+  "title": "Full-Stack Developer",
+  "roles": [
+    "Full-Stack Developer",
+    "Software Engineer",
+    "Founder, ALPHACODE SOLUTIONS"
+  ],
+  "company": {
+    "name": "ALPHACODE SOLUTIONS",
+    "url": "https://alphacode.ke"
+  },
+  "location": "Kenya, Africa",
+  "positioning_statement": "Building practical billing, payment, education, networking and business management systems around real operational workflows, from Kenya.",
+  "email": "anthonykaranja018@gmail.com",
+  "portfolio": "https://anthonyke.netlify.app",
+  "linkedin": "https://www.linkedin.com/in/alphacodeke",
+  "github_username": "alphacodeke",
+  "typography": {
+    "display": "Space Grotesk",
+    "body": "IBM Plex Sans",
+    "mono": "IBM Plex Mono"
+  }
+}

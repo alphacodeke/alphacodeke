@@ -1,0 +1,56 @@
+name: Update profile
+
+on:
+  schedule:
+    # 04:00 UTC daily. Adjust to taste; GitHub stats and contribution
+    # data do not change fast enough to need anything more frequent.
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "data/**"
+      - "templates/**"
+      - "tools/**"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Regenerate assets and README
+        env:
+          # GITHUB_TOKEN is provided automatically by Actions for this repo.
+          # It is enough for the GraphQL contribution query and the higher
+          # REST rate limit; no extra secret needs to be configured.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tools/update_profile.py
+
+      - name: Validate profile
+        run: python tools/validate_profile.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git add -A
+            git commit -m "chore: regenerate profile assets and README"
+            git push
+          fi

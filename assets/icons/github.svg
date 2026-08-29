@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="GitHub icon">
+  <rect x="1" y="1" width="94" height="94" rx="18" fill="#111111" stroke="#27272A" stroke-width="1.5"/>
+  <text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle"
+        font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="600"
+        fill="#F7C200">GI</text>
+</svg>

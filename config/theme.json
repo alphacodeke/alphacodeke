@@ -1,0 +1,29 @@
+{
+  "background": "#000000",
+  "surface": "#111111",
+  "surface_alt": "#181818",
+  "primary": "#F7C200",
+  "text": "#FFFFFF",
+  "muted": "#71717A",
+  "border": "#27272A",
+  "success": "#3DBE64",
+  "fonts": {
+    "display": "Inter, Arial, sans-serif",
+    "body": "Inter, Arial, sans-serif",
+    "mono": "JetBrains Mono, Consolas, monospace"
+  },
+  "project_accents": {
+    "alphahost": "#F7C200",
+    "alphanet": "#24F22B",
+    "asilipay": "#F7C200",
+    "afristyle": "#F7C200",
+    "sajiliflow": "#F7C200",
+    "alphacore": "#F7C200",
+    "paystruct": "#F7C200",
+    "alphaq": "#F7C200",
+    "trustfund": "#F7C200",
+    "biashara-avenue": "#F7C200",
+    "milkflow": "#F7C200",
+    "alphaclass": "#F7C200"
+  }
+}

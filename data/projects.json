@@ -1,0 +1,420 @@
+[
+  {
+    "id": "alphahost",
+    "name": "AlphaHost",
+    "tagline": "SaaS Billing and Payment Collection Platform",
+    "category": "SaaS",
+    "status": "Active",
+    "problem": "Businesses managing recurring clients often rely on spreadsheets, manual reminders and fragmented payment tracking.",
+    "solution": "AlphaHost centralizes recurring billing, invoicing, payment tracking, receipts, reminders and overdue payment workflows into one platform.",
+    "features": [
+      "Recurring billing",
+      "Flexible billing cycles",
+      "Invoice generation",
+      "Payment tracking",
+      "Receipts",
+      "Payment reminders",
+      "Overdue notifications",
+      "Dunning workflows",
+      "Client dashboard",
+      "Email automation"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript",
+      "HTML5",
+      "Tailwind CSS"
+    ],
+    "flow": [
+      "Client",
+      "Billing Engine",
+      "Invoice",
+      "Payment",
+      "Receipt",
+      "Notification"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/alphahost.svg"
+  },
+  {
+    "id": "alphanet",
+    "name": "Alphanet",
+    "tagline": "MikroTik WiFi Billing System",
+    "category": "Networking",
+    "status": "Active",
+    "problem": "Internet providers and network operators need a practical way to manage subscribers, packages and payments.",
+    "solution": "A centralized WiFi billing and subscriber management platform designed to integrate with MikroTik infrastructure.",
+    "features": [
+      "Subscriber management",
+      "Packages",
+      "Billing",
+      "Payment integration",
+      "MikroTik integration",
+      "User management",
+      "Administrative dashboards",
+      "Network workflows"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript",
+      "MikroTik API"
+    ],
+    "flow": [
+      "Subscriber",
+      "Portal",
+      "Django",
+      "Billing",
+      "Payment",
+      "MikroTik"
+    ],
+    "theme_color": "#24F22B",
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/alphanet.svg"
+  },
+  {
+    "id": "asilipay",
+    "name": "Asilipay",
+    "tagline": "Payment Integration Infrastructure",
+    "category": "FinTech",
+    "status": "Active",
+    "problem": "Businesses need a straightforward way to accept and reconcile digital payments without building integrations against every provider individually.",
+    "solution": "Asilipay provides payment integration infrastructure that connects business systems to payment providers through a consistent API, handling transaction workflows and webhook notifications. It does not hold funds and is not a bank or payment processor in its own right.",
+    "features": [
+      "Payment integrations",
+      "Business payment collection",
+      "Transaction workflows",
+      "APIs",
+      "Webhooks",
+      "Payment notifications"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "REST APIs",
+      "Webhooks"
+    ],
+    "flow": [
+      "Business System",
+      "Asilipay API",
+      "Payment Provider",
+      "Webhook",
+      "Transaction Record"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/asilipay.svg"
+  },
+  {
+    "id": "afristyle",
+    "name": "Afristyle",
+    "tagline": "Beauty Industry Booking Platform",
+    "category": "Booking",
+    "status": "Active",
+    "problem": "Many beauty businesses rely on manual booking processes, fragmented communication and poor scheduling workflows.",
+    "solution": "A configurable platform where a beauty business can manage its services, categories, customers, staff and bookings from one system.",
+    "features": [
+      "Service categories",
+      "Services",
+      "Booking",
+      "Customer management",
+      "Staff",
+      "Business profile",
+      "Payment integration",
+      "Notifications",
+      "Admin controls"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript",
+      "Tailwind CSS"
+    ],
+    "flow": [
+      "Business",
+      "Services",
+      "Availability",
+      "Customer",
+      "Booking",
+      "Payment",
+      "Notification"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/afristyle.svg"
+  },
+  {
+    "id": "sajiliflow",
+    "name": "SajiliFlow",
+    "tagline": "Student Attendance Management Platform",
+    "category": "EdTech",
+    "status": "Active",
+    "problem": "Manual attendance is slow, difficult to verify and difficult to analyze.",
+    "solution": "Digital attendance workflows using QR codes, location-aware verification, student profiles and automated communication.",
+    "features": [
+      "QR attendance",
+      "Lecturer sessions",
+      "Student attendance",
+      "Geofencing",
+      "Email notifications",
+      "Student profiles",
+      "Verification",
+      "PWA",
+      "Offline functionality",
+      "Administrative dashboard"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript",
+      "PWA"
+    ],
+    "flow": [
+      "Lecturer",
+      "Session",
+      "QR",
+      "Student",
+      "Verification",
+      "Attendance",
+      "Analytics"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/sajiliflow.svg"
+  },
+  {
+    "id": "alphacore",
+    "name": "AlphaCore",
+    "tagline": "POS and Business Management System",
+    "category": "Business Systems",
+    "status": "Active",
+    "problem": "Small and medium businesses need sales, inventory and customer records handled in one consistent system instead of scattered tools.",
+    "solution": "AlphaCore is a point-of-sale and business management system covering sales, inventory, customers and reporting from a single dashboard.",
+    "features": [
+      "Sales",
+      "Inventory",
+      "Products",
+      "Customers",
+      "Transactions",
+      "Reporting",
+      "Dashboard",
+      "Administration"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript"
+    ],
+    "flow": [
+      "Sale",
+      "Inventory Update",
+      "Transaction Record",
+      "Customer",
+      "Report"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/alphacore.svg"
+  },
+  {
+    "id": "paystruct",
+    "name": "Paystruct",
+    "tagline": "Financial Management System",
+    "category": "FinTech",
+    "status": "Active",
+    "problem": "Organizations tracking accounts and financial records across manual processes struggle with consistency and oversight.",
+    "solution": "Paystruct is a financial management system for account management, transaction records and administrative reporting. It is not a real bank and does not offer banking services.",
+    "features": [
+      "Account management",
+      "Transactions",
+      "Financial records",
+      "User management",
+      "Administrative controls",
+      "Reporting"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript"
+    ],
+    "flow": [
+      "Account",
+      "Transaction",
+      "Ledger Record",
+      "Report"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/paystruct.svg"
+  },
+  {
+    "id": "alphaq",
+    "name": "AlphaQ",
+    "tagline": "QR-Based Queue Management Platform",
+    "category": "Automation",
+    "status": "Active",
+    "problem": "Physical queues can create congestion, uncertainty and poor customer experiences.",
+    "solution": "A digital queue system that allows customers and businesses to manage queue positions digitally.",
+    "features": [
+      "QR access",
+      "Queue creation",
+      "Queue management",
+      "Real-time updates",
+      "Notifications",
+      "Dashboard"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "WebSockets",
+      "JavaScript"
+    ],
+    "flow": [
+      "Customer",
+      "QR Scan",
+      "Queue Position",
+      "Real-Time Update",
+      "Notification"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/alphaq.svg"
+  },
+  {
+    "id": "trustfund",
+    "name": "TrustFund",
+    "tagline": "Scholarship Workflow Management Platform",
+    "category": "EdTech",
+    "status": "Active",
+    "problem": "Scholarship applications can become difficult to manage when handled through fragmented manual processes.",
+    "solution": "Centralized scholarship application and review workflows.",
+    "features": [
+      "Applications",
+      "Applicants",
+      "Review workflows",
+      "Administrative management",
+      "Notifications",
+      "Records",
+      "Reporting"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript"
+    ],
+    "flow": [
+      "Applicant",
+      "Application",
+      "Review",
+      "Decision",
+      "Record"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/trustfund.svg"
+  },
+  {
+    "id": "biashara-avenue",
+    "name": "Biashara Avenue",
+    "tagline": "Marketplace Platform",
+    "category": "Marketplace",
+    "status": "Active",
+    "problem": "Buyers and sellers need a centralized digital marketplace to discover products and manage transactions.",
+    "solution": "A marketplace connecting buyers and sellers through product listings and marketplace workflows.",
+    "features": [
+      "Sellers",
+      "Buyers",
+      "Products",
+      "Listings",
+      "Search",
+      "Orders",
+      "Marketplace administration"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript"
+    ],
+    "flow": [
+      "Seller",
+      "Listing",
+      "Search",
+      "Buyer",
+      "Order",
+      "Marketplace Admin"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/biashara-avenue.svg"
+  },
+  {
+    "id": "milkflow",
+    "name": "MilkFlow",
+    "tagline": "Dairy Management Platform",
+    "category": "Agritech",
+    "status": "Active",
+    "problem": "Dairy businesses need better visibility into production, collection, distribution and records.",
+    "solution": "A digital management platform for dairy operations.",
+    "features": [
+      "Production",
+      "Milk collection",
+      "Distribution",
+      "Customers",
+      "Records",
+      "Reporting"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript"
+    ],
+    "flow": [
+      "Production",
+      "Collection",
+      "Distribution",
+      "Customer",
+      "Record"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/milkflow.svg"
+  },
+  {
+    "id": "alphaclass",
+    "name": "AlphaClass",
+    "tagline": "Learning Management Platform",
+    "category": "EdTech",
+    "status": "Active",
+    "problem": "Learning activities and educational resources can become fragmented across multiple systems.",
+    "solution": "A centralized learning management environment for courses, instructors and student progress.",
+    "features": [
+      "Courses",
+      "Students",
+      "Instructors",
+      "Learning materials",
+      "Assessments",
+      "Progress",
+      "Administration",
+      "Intelligent assistance where applicable"
+    ],
+    "stack": [
+      "Django",
+      "MySQL",
+      "JavaScript"
+    ],
+    "flow": [
+      "Instructor",
+      "Course",
+      "Material",
+      "Student",
+      "Assessment",
+      "Progress"
+    ],
+    "repository": "",
+    "demo": "",
+    "architecture": "assets/diagrams/projects/alphaclass.svg"
+  }
+]

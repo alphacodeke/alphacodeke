@@ -1,0 +1,51 @@
+This repository is a personal developer profile and contains two
+different kinds of material, licensed differently. This split is
+deliberate: the generation tooling is generic and useful to anyone,
+while the profile's content is personal and commercial branding that
+should not be reused as-is.
+
+1. Code (the "tooling")
+   Everything under tools/, templates/, and the JSON schema shape used
+   by config/ and data/ (i.e., the file structure and field names, not
+   the values in them) is licensed under the MIT License below. Copy
+   it, adapt it, and use it to build your own generated profile.
+
+2. Content (the "profile")
+   Everything else, including but not limited to:
+     - the name Anthony Karanja and the ALPHACODE SOLUTIONS brand name
+     - the values inside config/profile.json and config/theme.json
+     - the project names, descriptions, problem/solution text and
+       feature lists inside data/projects.json
+     - every generated SVG under assets/ (icons, diagrams, banners,
+       stats cards) and README.md itself, since both are derived from
+       the content above
+   is not licensed for reuse. All rights to this material are reserved
+   by Anthony Karanja. If you use this repository as a template for
+   your own profile (which the MIT-licensed tooling is meant to
+   support), replace all of the content above with your own before
+   publishing.
+
+---
+
+MIT License (applies only to the tooling, as described above)
+
+Copyright (c) 2026 Anthony Karanja
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the tooling described above and associated documentation
+files, to deal in the tooling without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the tooling, and to permit persons to
+whom the tooling is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the tooling.
+
+THE TOOLING IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+TOOLING OR THE USE OR OTHER DEALINGS IN THE TOOLING.
