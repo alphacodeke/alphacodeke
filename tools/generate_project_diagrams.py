@@ -1,17 +1,6 @@
 """
 Generate a local architecture/flow SVG for each project listed in
-data/projects.json:
-
-    assets/diagrams/projects/<id>.svg
-
-A vertical flow diagram of the project's data flow, built from the
-"flow" array in data/projects.json (the same flow described in the
-project's case study). This is the one visual per project card; the
-project's name, category and status render as text in the README
-itself rather than duplicating them into a separate banner image.
-
-Run:
-    python tools/generate_project_diagrams.py
+data/projects.json
 """
 
 from _common import theme, projects, write_svg, esc

@@ -1,18 +1,5 @@
 """
 Regenerate the entire profile: icons, diagrams, GitHub stats, then README.md.
-
-This is the single entry point used by both local development and the
-GitHub Actions workflow (.github/workflows/update-profile.yml). It calls
-the other tools/ scripts in the order that makes the output correct:
-static and per-project assets first, GitHub API data second (since it
-can fail independently of everything else), README last (since it
-references every asset generated before it).
-
-Run:
-    python tools/update_profile.py
-
-GitHub stats/contribution failures are logged but do not stop the run,
-so a temporary GitHub API outage never blocks a README rebuild.
 """
 
 import subprocess

@@ -1,25 +1,3 @@
-"""
-Generate a local contribution activity SVG card:
-
-    assets/graphs/github-activity.svg
-
-GitHub's contribution calendar is not exposed by the public REST API,
-only by the GraphQL API, which requires an authenticated token. This
-script therefore has two modes:
-
-1. GITHUB_TOKEN is set: queries the GraphQL API for the real weekly
-   contribution totals over the last year and renders an actual
-   12-month activity bar chart.
-
-2. GITHUB_TOKEN is not set: renders an honest placeholder card that
-   explains a token is required, instead of guessing numbers or
-   leaving a broken image reference in the README. This keeps the
-   README rendering correctly either way (see rule in
-   private/guidelines/troubleshooting.md).
-
-Run:
-    GITHUB_TOKEN=xxxx python tools/generate_contributions.py
-"""
 
 import os
 import sys

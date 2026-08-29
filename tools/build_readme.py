@@ -1,13 +1,5 @@
 """
 Build README.md from templates/README.template.md and the JSON data files.
-
-This is the only script that should ever touch README.md directly.
-Edit data/projects.json, data/technologies.json, config/profile.json or
-templates/README.template.md, then rerun this script instead of editing
-README.md by hand.
-
-Run:
-    python tools/build_readme.py
 """
 
 import os
@@ -35,8 +27,6 @@ SECURITY_POINTS = [
 
 
 def build_what_i_build():
-    # A 2-column grid reads as a compact product overview instead of a
-    # long single-column list the reader has to scroll through.
     cells = [
         f'<td width="50%" valign="top"><strong>{esc(title)}</strong><br/><sub>{esc(detail)}</sub></td>'
         for title, detail in WHAT_I_BUILD

@@ -1,14 +1,5 @@
 """
-Generate the profile-wide diagrams that are not tied to a single project:
-
-- assets/branding/hero-background.svg     animated connected-systems hero background
-- assets/branding/monogram.svg             a local AK / Alphacode mark used in the hero
-- assets/diagrams/product-ecosystem.svg    how the projects span industries
-- assets/diagrams/engineering-architecture.svg   generalized system architecture
-- assets/diagrams/development-workflow.svg       the discover-to-improve workflow
-
-Run:
-    python tools/generate_static_diagrams.py
+Generate the profile-wide diagrams that are not tied to a single project
 """
 
 from _common import theme, projects, write_svg, esc
@@ -57,14 +48,12 @@ def hero_background_svg(t):
         (0, 1), (1, 2), (2, 4), (1, 3), (3, 5),
         (4, 6), (5, 6), (6, 7), (6, 8), (3, 9),
     ]
-    # A subset of edges carries a slow-moving particle. Kept small so the
-    # motion reads as "occasional signal", not constant traffic.
+    
     particle_edges = [0, 3, 6, 9]
     pulse_durations = [3.4, 4.1, 3.7, 4.6, 3.2, 4.3, 3.9, 4.8, 3.5, 4.0]
 
     parts = [f'<rect x="0" y="0" width="{width}" height="{height}" fill="{t["background"]}"/>']
 
-    # Faint grid, for scale and texture rather than as a focal element.
     grid = []
     for x in range(0, width + 1, 80):
         grid.append(f'<line x1="{x}" y1="0" x2="{x}" y2="{height}" stroke="{t["border"]}" stroke-width="1" opacity="0.14"/>')
@@ -72,7 +61,6 @@ def hero_background_svg(t):
         grid.append(f'<line x1="0" y1="{y}" x2="{width}" y2="{y}" stroke="{t["border"]}" stroke-width="1" opacity="0.14"/>')
     parts.append(f'<g>{"".join(grid)}</g>')
 
-    # Circuit-style connections between nodes.
     edge_parts = []
     for i, (a, b) in enumerate(edges):
         x1, y1 = nodes[a]
@@ -83,8 +71,7 @@ def hero_background_svg(t):
         )
     parts.append(f'<g>{"".join(edge_parts)}</g>')
 
-    # Nodes, each pulsing on its own slightly different cycle so the
-    # network never reads as a single synchronized blink.
+   
     node_parts = []
     for i, (x, y) in enumerate(nodes):
         dur = pulse_durations[i % len(pulse_durations)]
@@ -98,7 +85,6 @@ def hero_background_svg(t):
         )
     parts.append(f'<g>{"".join(node_parts)}</g>')
 
-    # Slow light points traveling along a few of the connection paths.
     particle_parts = []
     for j, edge_index in enumerate(particle_edges):
         dur = 7 + j * 1.6
@@ -124,8 +110,6 @@ def product_ecosystem_svg(t, all_projects):
         categories.setdefault(p["category"], []).append(p["name"])
     cat_names = list(categories.keys())
 
-    # Size each category box to its own label instead of a fixed width,
-    # so a long name like "Business Systems" never overflows its pill.
     label_font_size = 11.5
     char_width = label_font_size * 0.62
     box_widths = [max(110, len(cat.upper()) * char_width + 36) for cat in cat_names]

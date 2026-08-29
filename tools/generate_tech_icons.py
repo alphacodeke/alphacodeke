@@ -1,14 +1,5 @@
 """
 Generate local SVG icon tiles for every technology listed in data/technologies.json.
-
-These are deliberately NOT copies of official third-party product logos.
-Reproducing trademarked brand marks is not something this toolkit does.
-Instead every technology gets a consistent, theme-colored monogram tile
-(dark card, rounded corners, accent-colored initials) so the stack
-section renders reliably without depending on any external icon CDN.
-
-Run:
-    python tools/generate_tech_icons.py
 """
 
 from _common import theme, technologies, write_svg, esc
@@ -35,7 +26,6 @@ def icon_svg(name, t):
 
 
 def slug_from_path(icon_path):
-    # data/technologies.json stores paths like assets/icons/python.svg
     return icon_path.rsplit("/", 1)[-1].replace(".svg", "")
 
 

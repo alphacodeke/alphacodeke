@@ -1,20 +1,5 @@
 """
-Validate the profile repository before considering a change complete.
-
-Checks:
-    - config/profile.json, config/theme.json, data/projects.json,
-      data/technologies.json all parse as valid JSON
-    - every project has the required case-study fields (problem, solution,
-      features, stack, status, category)
-    - every asset path referenced from data/projects.json,
-      data/technologies.json and README.md points at a file that exists
-    - README.md exists and is non-empty
-
-Exits with status 1 and a list of problems if anything fails, so it can
-be used as a pre-commit or CI gate. Exits 0 with a summary on success.
-
-Run:
-    python tools/validate_profile.py
+Validates the profile repository before considering a change complete.
 """
 
 import json

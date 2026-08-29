@@ -3,22 +3,6 @@ Generate local GitHub statistics SVG cards from the GitHub REST API:
 
     assets/graphs/github-stats.svg        public repos, followers, stars
     assets/graphs/github-languages.svg    language breakdown across public repos
-
-Reliability rule: if the GitHub API is unreachable, rate-limited, or the
-token is missing/invalid, this script leaves any existing SVGs untouched
-and exits with a non-zero status instead of writing a broken or empty
-asset. The README never ends up pointing at a missing image because of
-this script.
-
-Auth:
-    Set GITHUB_TOKEN in the environment for a higher rate limit
-    (60/hour unauthenticated, 5000/hour authenticated). A token is not
-    required for this script specifically, since it only reads public
-    data, but is recommended so it does not compete for the same
-    unauthenticated quota as everything else on a shared IP.
-
-Run:
-    python tools/generate_github_stats.py
 """
 
 import os

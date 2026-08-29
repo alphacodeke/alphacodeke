@@ -2,8 +2,6 @@ name: Update profile
 
 on:
   schedule:
-    # 04:00 UTC daily. Adjust to taste; GitHub stats and contribution
-    # data do not change fast enough to need anything more frequent.
     - cron: "0 4 * * *"
   workflow_dispatch: {}
   push:
@@ -34,9 +32,6 @@ jobs:
 
       - name: Regenerate assets and README
         env:
-          # GITHUB_TOKEN is provided automatically by Actions for this repo.
-          # It is enough for the GraphQL contribution query and the higher
-          # REST rate limit; no extra secret needs to be configured.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python tools/update_profile.py
 
