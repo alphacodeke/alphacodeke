@@ -259,7 +259,7 @@ Digital attendance workflows using QR codes, location-aware verification, studen
 
 <p align="center"><sub>POS and Business Management System</sub></p>
 
-<p align="center"><code>BUSINESS SYSTEMS</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
+<p align="center"><code>BUSINESS SYSTEMS</code>&nbsp;&nbsp;<code>TESTING</code></p>
 
 **The problem**<br/>
 Small and medium businesses need sales, inventory and customer records handled in one consistent system instead of scattered tools.
