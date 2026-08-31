@@ -131,7 +131,7 @@ AlphaHost centralizes recurring billing, invoicing, payment tracking, receipts, 
 
 <p align="center"><sub>MikroTik WiFi Billing System</sub></p>
 
-<p align="center"><code>NETWORKING</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
+<p align="center"><code>NETWORKING</code>&nbsp;&nbsp;<code>DEVELOPMENT</code></p>
 
 **The problem**<br/>
 Internet providers and network operators need a practical way to manage subscribers, packages and payments.
