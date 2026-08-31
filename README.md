@@ -291,7 +291,7 @@ AlphaCore is a point-of-sale and business management system covering sales, inve
 
 <p align="center"><sub>Financial Management System</sub></p>
 
-<p align="center"><code>FINTECH</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
+<p align="center"><code>FINTECH</code>&nbsp;&nbsp;<code>DESIGN</code></p>
 
 **The problem**<br/>
 Organizations tracking accounts and financial records across manual processes struggle with consistency and oversight.
