@@ -387,7 +387,7 @@ Centralized scholarship application and review workflows.
 
 <p align="center"><sub>Marketplace Platform</sub></p>
 
-<p align="center"><code>MARKETPLACE</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
+<p align="center"><code>MARKETPLACE</code>&nbsp;&nbsp;<code>PENDING</code></p>
 
 **The problem**<br/>
 Buyers and sellers need a centralized digital marketplace to discover products and manage transactions.
