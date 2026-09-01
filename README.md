@@ -131,7 +131,7 @@ AlphaHost centralizes recurring billing, invoicing, payment tracking, receipts, 
 
 <p align="center"><sub>MikroTik WiFi Billing System</sub></p>
 
-<p align="center"><code>NETWORKING</code>&nbsp;&nbsp;<code>DEVELOPMENT</code></p>
+<p align="center"><code>NETWORKING</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
 
 **The problem**<br/>
 Internet providers and network operators need a practical way to manage subscribers, packages and payments.
@@ -259,7 +259,7 @@ Digital attendance workflows using QR codes, location-aware verification, studen
 
 <p align="center"><sub>POS and Business Management System</sub></p>
 
-<p align="center"><code>BUSINESS SYSTEMS</code>&nbsp;&nbsp;<code>TESTING</code></p>
+<p align="center"><code>BUSINESS SYSTEMS</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
 
 **The problem**<br/>
 Small and medium businesses need sales, inventory and customer records handled in one consistent system instead of scattered tools.
@@ -291,7 +291,7 @@ AlphaCore is a point-of-sale and business management system covering sales, inve
 
 <p align="center"><sub>Financial Management System</sub></p>
 
-<p align="center"><code>FINTECH</code>&nbsp;&nbsp;<code>DESIGN</code></p>
+<p align="center"><code>FINTECH</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
 
 **The problem**<br/>
 Organizations tracking accounts and financial records across manual processes struggle with consistency and oversight.
@@ -387,7 +387,7 @@ Centralized scholarship application and review workflows.
 
 <p align="center"><sub>Marketplace Platform</sub></p>
 
-<p align="center"><code>MARKETPLACE</code>&nbsp;&nbsp;<code>PENDING</code></p>
+<p align="center"><code>MARKETPLACE</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
 
 **The problem**<br/>
 Buyers and sellers need a centralized digital marketplace to discover products and manage transactions.
@@ -525,6 +525,6 @@ A centralized learning management environment for courses, instructors and stude
 
 <div align="center">
 
-<a href="https://anthonyke.netlify.app">Portfolio</a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/alphacodeke">LinkedIn</a> &nbsp;&middot;&nbsp; <a href="mailto:anthonykaranja018@gmail.com">Email</a> &nbsp;&middot;&nbsp; <a href="https://github.com/alphacodeke">GitHub</a> &nbsp;&middot;&nbsp; <a href="https://anthonyke.netlify.app">ALPHACODE SOLUTIONS</a>
+<a href="https://anthonyke.netlify.app">Portfolio</a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/alphacodeke">LinkedIn</a> &nbsp;&middot;&nbsp; <a href="mailto:anthonykaranja018@gmail.com">Email</a> &nbsp;&middot;&nbsp; <a href="https://github.com/alphacodeke">GitHub</a> &nbsp;&middot;&nbsp; <a href="https://alphacode.ke">ALPHACODE SOLUTIONS</a>
 
 </div>
