@@ -99,7 +99,7 @@ I work across the stack: schema design, business logic, API design, frontend beh
 
 <p align="center"><sub>SaaS Billing and Payment Collection Platform</sub></p>
 
-<p align="center"><code>SAAS</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
+<p align="center"><code>SAAS</code>&nbsp;&nbsp;<code>TESTING</code></p>
 
 **The problem**<br/>
 Businesses managing recurring clients often rely on spreadsheets, manual reminders and fragmented payment tracking.
