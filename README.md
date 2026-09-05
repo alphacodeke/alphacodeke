@@ -24,7 +24,7 @@ Kenya, Africa
 
 <h2 align="center">About</h2>
 
-I build production-oriented systems for real operational problems: recurring billing, WiFi subscriber management, beauty-industry booking, student attendance, point of sale, financial record keeping, queue management, scholarship review, marketplaces, dairy operations and learning management. Most of these run on Python, MySQL and a JavaScript frontend, with the specific integrations, payments and background processing each system actually needs.
+I build production-oriented systems for real operational problems: recurring billing, WiFi subscriber management, beauty-industry booking, student attendance, point of sale, financial record keeping, queue management, scholarship review, marketplaces, dairy operations and learning management. Most of these run on Django, MySQL and a JavaScript frontend, with the specific integrations, payments and background processing each system actually needs.
 
 I work across the stack: schema design, business logic, API design, frontend behavior, deployment and security hardening. AI is one capability I apply where it genuinely fits a workflow, such as intelligent assistance inside a learning platform, not the center of what I build.
 
@@ -99,7 +99,7 @@ I work across the stack: schema design, business logic, API design, frontend beh
 
 <p align="center"><sub>SaaS Billing and Payment Collection Platform</sub></p>
 
-<p align="center"><code>SAAS</code>&nbsp;&nbsp;<code>TESTING</code></p>
+<p align="center"><code>SAAS</code>&nbsp;&nbsp;<code>ACTIVE</code></p>
 
 **The problem**<br/>
 Businesses managing recurring clients often rely on spreadsheets, manual reminders and fragmented payment tracking.
