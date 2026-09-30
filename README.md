@@ -1,8 +1,30 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="160" align="center">
+
+<img src="assets/anthony.jpg" width="140" height="140" style="border-radius:50%; object-fit:cover;">
+
+</td>
+
+<td width="430" align="center">
+
 # ANTHONY KARANJA
 
 ### SOFTWARE DEVELOPER · FULL-STACK · FOUNDER @ ALPHACODE SOLUTIONS
+
+</td>
+
+<td width="160" align="center">
+
+<img src="assets/alphacode.jpg" width="140" height="140" style="object-fit:contain;">
+
+</td>
+</tr>
+</table>
+
+<br>
 
 **Building And Transforming African Businesses And Beyond.**
 
