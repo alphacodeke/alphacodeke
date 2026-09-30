@@ -21,7 +21,7 @@
 
 ## ABOUT
 
-I’m a **Software Developer and Full-Stack Developer** focused on creating secure, reliable and practical digital solutions for modern businesses.
+I’m a **Software Engineer and Full-Stack Developer** focused on creating secure, reliable and practical digital solutions for modern businesses.
 
 Through **Alphacode Solutions**, I design and build software that helps businesses improve their operations, automate processes and deliver better digital experiences.
 
