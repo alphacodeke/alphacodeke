@@ -18,7 +18,7 @@
 
 <td width="180" align="center">
 
-<img src="assets/alphacode.jpg" alt="Alphacode Solutions" width="140" height="140" style="border-radius:50%; object-fit:contain;">
+<img src="assets/alphacode.jpg" alt="Alphacode Solutions" width="140" height="140" style="border-radius:50%; object-fit:cover;">
 
 </td>
 </tr>
