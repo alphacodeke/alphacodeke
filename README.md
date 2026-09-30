@@ -2,9 +2,9 @@
 
 <table>
 <tr>
-<td width="160" align="center">
+<td width="180" align="center">
 
-<img src="assets/anthony.jpg" width="140" height="140" style="border-radius:50%; object-fit:cover;">
+<img src="assets/anthony.jpg" alt="Anthony Karanja" width="140" height="140" style="border-radius:50%; object-fit:cover;">
 
 </td>
 
@@ -16,9 +16,9 @@
 
 </td>
 
-<td width="160" align="center">
+<td width="180" align="center">
 
-<img src="assets/alphacode.jpg" width="140" height="140" style="object-fit:contain;">
+<img src="assets/alphacode.jpg" alt="Alphacode Solutions" width="140" height="140" style="border-radius:50%; object-fit:contain;">
 
 </td>
 </tr>
