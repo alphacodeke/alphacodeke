@@ -25,7 +25,6 @@ I’m a **Software Developer and Full-Stack Developer** focused on creating secu
 
 Through **Alphacode Solutions**, I design and build software that helps businesses improve their operations, automate processes and deliver better digital experiences.
 
----
 
 ## WHAT I DO
 
@@ -41,7 +40,6 @@ Creating reliable systems designed around real business needs.
 **Payment & Billing Systems**
 Developing platforms that support payments, billing and financial workflows.
 
----
 
 ## TECHNOLOGY
 
@@ -58,7 +56,6 @@ Developing platforms that support payments, billing and financial workflows.
 
 </div>
 
----
 
 ## ALPHACODE SOLUTIONS
 
@@ -76,7 +73,6 @@ From business websites and web applications to automation, payment systems and c
 
 </div>
 
----
 
 <div align="center">
 
