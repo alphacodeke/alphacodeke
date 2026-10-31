@@ -41,7 +41,7 @@ Creating reliable systems designed around real business needs.
 Developing platforms that support payments, billing and financial workflows.
 
 
-## TECHNOLOGY
+## TECHNOLOGY STACK
 
 <div align="center">
 
