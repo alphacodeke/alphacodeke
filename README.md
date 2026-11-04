@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFD000?style=for-the-badge\&logo=googlechrome\&logoColor=000000)](https://anthonyke.netlify.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFD000?style=for-the-badge\&logo=googlechrome\&logoColor=000000)](https://anthony.alphacode.ke)
 [![Alphacode Solutions](https://img.shields.io/badge/ALPHACODE%20SOLUTIONS-FFD000?style=for-the-badge\&logo=googlechrome\&logoColor=000000)](https://alphacode.ke)
 
 <br>
@@ -80,7 +80,7 @@ From business websites and web applications to automation, payment systems and c
 
 **Anthony Karanja**
 
-[Portfolio](https://anthonyke.netlify.app) · [Alphacode Solutions](https://alphacode.ke)
+[Portfolio](https://anthony.alphacode.ke) · [Alphacode Solutions](https://alphacode.ke)
 
 <br>
 
