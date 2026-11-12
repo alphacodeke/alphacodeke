@@ -13,7 +13,7 @@
 
 <br>
 
-`KENYA` · `AFRICA` · `WORLDWIDE`
+`KENYA` · `AFRICA` · `WORLD`
 
 </div>
 
